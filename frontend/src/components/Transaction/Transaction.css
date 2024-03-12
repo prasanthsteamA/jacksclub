@@ -1,0 +1,40 @@
+.card-container {
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+  }
+  .ant-card-head{
+    background: rgb(13, 63, 75) !important;
+  }
+  .card-title {
+    text-align: center;
+    background: rgb(13, 63, 75);
+    color: #fff;
+  }
+  
+  .form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-label {
+    margin-bottom: 16px;
+    width: 80%;
+  }
+  
+  .input-field {
+    margin-bottom: 16px;
+    width: 80%;
+  }
+  
+  .select-field {
+    margin-bottom: 16px;
+    width: 80%;
+  }
+  
+  .button {
+    width: 80%;
+    background: rgb(13, 63, 75);
+  }
+  

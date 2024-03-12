@@ -1,0 +1,34 @@
+.card-container {
+    width: 40%;
+    margin: auto;
+    margin-top: 150px;
+  }
+  
+  .ant-card-head{
+    background: rgb(13, 63, 75) !important;
+  }
+  .card-title {
+    text-align: center;
+    background: rgb(13, 63, 75);
+    color: #fff;
+  }
+  
+  .balance-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .balance-text {
+    margin-bottom: 8px;
+  }
+  
+  .input-container {
+    margin-bottom: 8px;
+  }
+  
+  .get-balance-button {
+    width: 100%;
+    background: rgb(13, 63, 75);
+  }
+  
